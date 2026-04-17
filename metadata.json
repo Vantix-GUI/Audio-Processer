@@ -1,0 +1,6 @@
+{
+  "name": "Audio Processing Tools",
+  "description": "A collection of audio processing tools, starting with a smooth audio slower.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
